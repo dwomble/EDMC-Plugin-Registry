@@ -1,0 +1,19 @@
+  {
+    "pluginName": "EDMC-NeutronDancer",
+    "pluginVer": "1.5.3",
+    "pluginZip": "https://github.com/dwomble/EDMC-NeutronDancer/releases/download/v1.5.3/EDMC-NeutronDancer.zip",
+    "autoUpdateEnabled": true,
+    "autoInstallEnabled": false,
+    "pluginAuthors": ["dwomble"],
+    "pluginMainLink": "https://github.com/dwomble/EDMC-NeutronDancer",
+    "pluginLastUpdate": "2026-01-03",
+    "pluginDirName": "EDMC-NeutronDancer",
+    "pluginCategory": ["Navigation", "Exploration"],
+    "pluginDesc": "Simplifies/automates Spansh Neutron (and other) routing.",
+    "pluginLastTestedEDMC": "6.0.2",
+    "pluginRequirements": [],
+    "pluginLicense": "MIT License",
+    "pluginIcon": "",
+    "pluginVT": "https://www.virustotal.com/gui/file/66a3ba29e64222122fe0b174c54bd0105ca025117ad242a12dbd4edd7443aa41/details",
+    "pluginHash": "66a3ba29e64222122fe0b174c54bd0105ca025117ad242a12dbd4edd7443aa41"
+  }
