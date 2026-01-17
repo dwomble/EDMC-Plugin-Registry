@@ -1,7 +1,7 @@
   {
     "pluginName": "EDMC-NeutronDancer",
-    "pluginVer": "1.5.3",
-    "pluginZip": "https://github.com/dwomble/EDMC-NeutronDancer/releases/download/v1.5.3/EDMC-NeutronDancer.zip",
+    "pluginVer": "1.6.0",
+    "pluginZip": "https://github.com/dwomble/EDMC-NeutronDancer/releases/download/v1.6.0/EDMC-NeutronDancer.zip",
     "autoUpdateEnabled": true,
     "autoInstallEnabled": false,
     "pluginAuthors": ["dwomble"],
@@ -14,6 +14,6 @@
     "pluginRequirements": [],
     "pluginLicense": "MIT License",
     "pluginIcon": "",
-    "pluginVT": "https://www.virustotal.com/gui/file/66a3ba29e64222122fe0b174c54bd0105ca025117ad242a12dbd4edd7443aa41/details",
-    "pluginHash": "66a3ba29e64222122fe0b174c54bd0105ca025117ad242a12dbd4edd7443aa41"
+    "pluginVT": "https://www.virustotal.com/gui/file/d128bea0fa54957775f24a93155f0f80de8cb4723f1e8dbb216fe63474cbe485/details",
+    "pluginHash": "d128bea0fa54957775f24a93155f0f80de8cb4723f1e8dbb216fe63474cbe485"
   }
