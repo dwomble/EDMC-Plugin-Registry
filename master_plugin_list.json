@@ -28,7 +28,7 @@
   },
   {
     "pluginName": "EDMC-Mining-Analytics",
-    "pluginVer": "0.5.3",
+    "pluginVer": "0.5.4",
     "pluginZip": "https://github.com/SweetJonnySauce/EDMC-Mining-Analytics/releases/download/0.5.3/EDMC-Mining-Analytics-0.5.3.zip",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
@@ -36,7 +36,7 @@
       "SweetJonnySauce"
     ],
     "pluginMainLink": "https://github.com/SweetJonnySauce/EDMC-Mining-Analytics",
-    "pluginLastUpdate": "2026-01-10",
+    "pluginLastUpdate": "2026-01-18",
     "pluginDirName": "EDMC-Mining-Analytics",
     "pluginCategory": [
       "Mining"
@@ -52,8 +52,8 @@
   },
   {
     "pluginName": "EDMC-NeutronDancer",
-    "pluginVer": "1.5.3",
-    "pluginZip": "https://github.com/dwomble/EDMC-NeutronDancer/releases/download/v1.5.3/EDMC-NeutronDancer.zip",
+    "pluginVer": "1.6.0",
+    "pluginZip": "https://github.com/dwomble/EDMC-NeutronDancer/releases/download/v1.6.0/EDMC-NeutronDancer.zip",
     "autoUpdateEnabled": true,
     "autoInstallEnabled": false,
     "pluginAuthors": [
@@ -71,8 +71,8 @@
     "pluginRequirements": [],
     "pluginLicense": "MIT License",
     "pluginIcon": "",
-    "pluginVT": "https://www.virustotal.com/gui/file/66a3ba29e64222122fe0b174c54bd0105ca025117ad242a12dbd4edd7443aa41/details",
-    "pluginHash": "66a3ba29e64222122fe0b174c54bd0105ca025117ad242a12dbd4edd7443aa41",
+    "pluginVT": "https://www.virustotal.com/gui/file/d128bea0fa54957775f24a93155f0f80de8cb4723f1e8dbb216fe63474cbe485/details",
+    "pluginHash": "d128bea0fa54957775f24a93155f0f80de8cb4723f1e8dbb216fe63474cbe485",
     "pluginStars": "5"
   },
   {
@@ -91,15 +91,15 @@
       "Utility",
       "Other"
     ],
-    "pluginDesc": "A cross platform (Windows & Linux) EDMC utility plugin that allows other plugins to display on-screen overlays in game.",
+    "pluginDesc": "Display plugin overlays in-game",
     "pluginLastTestedEDMC": "6.0.0",
     "pluginRequirements": [
-      "PyQt6 installed via bundled installers",
-      "Various OS dependencies to support various distros of Linux (See project Wiki)",
-      "Other plugins that send Overlay messages"
+      "PyQt6",
+      "Linux dependencies (See project Wiki)",
+      "Other plugins with overlay support"
     ],
     "pluginLicense": "GPL-3.0-or-later",
-    "pluginIcon": "https://github.com/SweetJonnySauce/EDMCModernOverlay/blob/main/extras/EDMCModernOverlay.ico",
+    "pluginIcon": "https://raw.githubusercontent.com/SweetJonnySauce/EDMCModernOverlay/refs/heads/main/extras/EDMCModernOverlay.ico",
     "pluginVT": "https://github.com/SweetJonnySauce/EDMCModernOverlay/releases/download/0.7.6/vt-transparency.html",
     "pluginHash": "",
     "pluginStars": "29"
@@ -127,7 +127,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/file/4523a3640e107049ff9f029fafd2032dbd66db77f1bd7f4d200751d7642d11c1",
     "pluginHash": "4523a3640e107049ff9f029fafd2032dbd66db77f1bd7f4d200751d7642d11c1",
-    "pluginStars": "38"
+    "pluginStars": "39"
   },
   {
     "pluginName": "UpdateTD",
